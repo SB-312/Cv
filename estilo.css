@@ -1,0 +1,12 @@
+*{
+	border: 1px dotted rgb(254, 6, 6);
+}
+body{
+	margin: 0 auto;
+	max-width: 1000px;
+	font-family: "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+	padding: 10px 20px;
+	border: 1px solid black;
+	color: tomato;
+}
