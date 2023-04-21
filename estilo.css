@@ -9,12 +9,23 @@ body{
 	color: tomato;
 }
 header{
+	display:  inline-block;
+	width: 1000px;
 	background-color: #536779;
 	color: rgb(255, 255, 255);
 }
+
+header div{
+	display: inline-block;
+	width: 700px;
+}
+
+figure{
+	display: inline-block;
+	width: 200px;
+}
+
 img{
-	float: left;
-	margin-right: 20px;
-	border-radius: 100%;
+	border-radius: 50%;
 	border: 2px solid #536779;
 }
